@@ -65,7 +65,7 @@ int main() {
     char AL04;
 
     
-
+        //Cadastro primeira cidade 'Minas Gerais';
         printf("Estado: %s\n", estadoA);
         printf("Cidade 01: \n");
         scanf("%s", &MG01);
@@ -75,6 +75,34 @@ int main() {
 
         printf("Quantidade de pontos turisticos:");
         scanf("%d", &pontos);
+
+
+        
+
+        //Cadastro segunda cidade 'Minas Gerais';
+        printf("Estado: %s\n", estadoA);
+        printf("Cidade 02: \n");
+        scanf("%s", &MG02);
+
+        printf("Populcao: \n");
+        scanf("%d", &populacao);
+
+        printf("Quantidade de pontos turisticos:");
+        scanf("%d", &pontos);
+
+    
+        printf("Estado: %s\n", estadoB);
+        printf("Estado: %s\n", estadoC);
+        printf("Estado: %s\n", estadoD);
+        printf("Estado: %s\n", estadoE);
+        printf("Estado: %s\n", estadoF);
+        printf("Estado: %s\n", estadoG);
+        printf("Estado: %s\n", estadoH);
+
+    
+
+
+
 
 
     
