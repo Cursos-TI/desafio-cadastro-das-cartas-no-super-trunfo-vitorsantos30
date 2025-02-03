@@ -9,7 +9,7 @@ int main() {
 //ESTADO DE MINAS GERAIS;
 
     char estadoA[50] = "Minas Gerais\n";
-    char cidadeMG01[20];
+    char cidadeMG1[20];
     char cidadeMG02[20];
     char cidadeMG03[20];
     char cidadeMG04[20];
@@ -21,7 +21,7 @@ int main() {
 
         printf("Estado: %s\n", estadoA);
         printf("Cidade 01: \n");
-        scanf("%s", &cidadeMG01);
+        scanf("%s", &cidadeMG1);
 
         printf("Populcao: \n");
         scanf("%d", &populacao);
@@ -451,7 +451,7 @@ int main() {
 
         printf("Quantidade de pontos turisticos:");
         scanf("%d", &pontos); 
-        
+
    
 
     
