@@ -8,12 +8,61 @@ int main() {
 
   
     char estadoA[50] = "Minas Gerais\n";
-    char MG01;
-    char MG02;
-    char MG03;
-    char MG04;
+    char cidade1[20];
+    char cidade2[20];
+    char cidade3[20];
+    char cidade4[20];
     int populacao;
     int pontos;
+
+
+        //Cadastro segunda cidade 'Minas Gerais';
+        printf("Estado: %s\n", estadoA);
+        printf("Cidade 01: \n");
+        scanf("%s", &cidade1);
+
+        printf("Populcao: \n");
+        scanf("%d", &populacao);
+
+        printf("Quantidade de pontos turisticos:");
+        scanf("%d", &pontos);
+
+
+        //Cadastro segunda cidade 'Minas Gerais';
+        printf("Estado: %s\n", estadoA);
+        printf("Cidade 02: \n");
+        scanf("%s", &cidade2);
+
+        printf("Populcao: \n");
+        scanf("%d", &populacao);
+
+        printf("Quantidade de pontos turisticos:");
+        scanf("%d", &pontos);
+
+
+        //Cadastro segunda cidade 'Minas Gerais';
+        printf("Estado: %s\n", estadoA);
+        printf("Cidade 03: \n");
+        scanf("%s", &cidade3);
+
+        printf("Populcao: \n");
+        scanf("%d", &populacao);
+
+        printf("Quantidade de pontos turisticos:");
+        scanf("%d", &pontos);
+
+
+        //Cadastro segunda cidade 'Minas Gerais';
+        printf("Estado: %s\n", estadoA);
+        printf("Cidade 04: \n");
+        scanf("%s", &cidade4);
+
+        printf("Populcao: \n");
+        scanf("%d", &populacao);
+
+        printf("Quantidade de pontos turisticos:");
+        scanf("%d", &pontos);
+
 
     
     char estadoB[50] = "Sao Paulo\n";
@@ -65,43 +114,7 @@ int main() {
     char AL04;
 
     
-        //Cadastro primeira cidade 'Minas Gerais';
-        printf("Estado: %s\n", estadoA);
-        printf("Cidade 01: \n");
-        scanf("%s", &MG01);
-
-        printf("Populacao: \n");
-        scanf("%d", &populacao);
-
-        printf("Quantidade de pontos turisticos:");
-        scanf("%d", &pontos);
-
-
-        
-
-        //Cadastro segunda cidade 'Minas Gerais';
-        printf("Estado: %s\n", estadoA);
-        printf("Cidade 02: \n");
-        scanf("%s", &MG02);
-
-        printf("Populcao: \n");
-        scanf("%d", &populacao);
-
-        printf("Quantidade de pontos turisticos:");
-        scanf("%d", &pontos);
-
-    
-        printf("Estado: %s\n", estadoB);
-        printf("Estado: %s\n", estadoC);
-        printf("Estado: %s\n", estadoD);
-        printf("Estado: %s\n", estadoE);
-        printf("Estado: %s\n", estadoF);
-        printf("Estado: %s\n", estadoG);
-        printf("Estado: %s\n", estadoH);
-
-    
-
-
+       
 
 
 
